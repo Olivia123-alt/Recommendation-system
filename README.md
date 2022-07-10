@@ -1,6 +1,6 @@
 # Book Recommendation System
 ### Check Out Our Blog On Book Recommendation System Here:
-<a href=>Book Recommendation System</a>
+Book Recommendation System
 ## Description:
 <p>A Book Recommendation System which recommends the users a selection of books based on their interests.</p>
 
